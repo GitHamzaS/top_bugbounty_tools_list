@@ -170,6 +170,7 @@ This repository likely aims to compile a list of excellent tools for bug bounty 
 
 ---
 
+## Exploitation
 
 
 ### Command Injection
@@ -355,6 +356,9 @@ This repository likely aims to compile a list of excellent tools for bug bounty 
 - [SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
 
 ---
+
+## Miscellaneous
+
 
 ### Passwords
 
